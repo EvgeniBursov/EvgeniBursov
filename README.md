@@ -2,14 +2,14 @@
 
 # Hello, I'm Evgeni Bursov! 👋
 
-# 💫 About Me:
-I'm a student searching for new opportunities in Software Engineering with half a year of experience in the startup Sirclez.ai. I will graduate in 2025 and can work full day. I have extensive knowledge in C++, Python, SQL, Java, and Node.js programming. I'm highly motivated, eager to learn, and a fast and efficient problem solver. Additionally, I have knowledge and understanding of design patterns, GUI, network protocols, Docker, Selenium, and Agile methodology.
+### 💫 About Me
+<h4>I'm a student searching for new opportunities in Software Engineering with half a year of experience in the startup Sirclez.ai. I will graduate in 2025 and can work full day. I have extensive knowledge in C++, Python, SQL, Java, and Node.js programming. I'm highly motivated, eager to learn, and a fast and efficient problem solver. Additionally, I have knowledge and understanding of design patterns, GUI, network protocols, Docker, Selenium, and Agile methodology.</h4>
 
-## 🌐 Socials:
+### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evgeni-bursov-software-engineering/) 
 
 #### 📫 Contact with Me:
-- [Email](mailto:evbu.w0@gmail.com) 
+[Email](mailto:evbu.w0@gmail.com) 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)<br>
