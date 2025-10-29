@@ -3,7 +3,7 @@
 # Hello, I'm Evgeni Bursov! 👋
 
 ### 💫 About Me
-<h4>I'm a highly motivated Junior Software Engineer with over a year of professional experience. I completed my BSc in Software Engineering at Sami Shamoon College of Engineering and am actively seeking new opportunities.
+<h4>I'm a highly motivated Junior Software Engineer with over a two year of professional experience. I completed my BSc in Software Engineering at Sami Shamoon College of Engineering and am actively seeking new opportunities.
 My experience includes working as a Junior Software Engineer at Makeshet Information Systems, where I designed SQL-based database solutions, developed features using C# and JavaScript, authored technical documentation, and conducted manual testing and QA processes. Prior to that, I worked as a Software Engineer Intern at Sirclez.ai startup, where I developed microservices-based applications using Python and SQL, integrated WhatsApp messaging services via APIs, and engineered scalable CRUD operations.
 I have extensive experience in C++, Python, Java, SQL, TypeScript, Node.js, and C#. I'm proficient with Git, Docker, CI/CD pipelines, REST APIs, and various database systems. My background includes full-stack development, microservices architecture, automated testing with Selenium and JMeter, and Agile methodology.
 As a results-driven problem solver, I excel at designing scalable applications and delivering high-quality code. I'm passionate about automation and continuously learning new technologies, ready to bring my technical skills and analytical thinking to a challenging new role.</h4>
